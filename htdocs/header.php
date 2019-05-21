@@ -27,7 +27,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
-            <?php echo '<a class="navbar-brand" href="index.php?lid=' . $_SESSION['lid']  . '">' . 'Awesome Message Board' . '</a>'; ?>
+            <?php echo '<a class="navbar-brand" href="index.php?lid=' . $_SESSION['lid']  . '">' . 'Message Board' . '</a>'; ?>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
